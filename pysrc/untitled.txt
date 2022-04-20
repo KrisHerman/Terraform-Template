@@ -1,0 +1,3 @@
+# Write to storage
+#storage_client = storage.Client('dev-area-318003')
+#bucket = storage_client.get_bucket('sample_app_dev')

@@ -1,0 +1,15 @@
+google-cloud-secret-manager
+google-cloud-bigquery
+google-cloud-storage
+google-cloud-error-reporting
+
+jwt
+pandas
+pandas-gbq
+sklearn
+flask
+pyarrow
+redis
+pytest
+fsspec
+gcsfs

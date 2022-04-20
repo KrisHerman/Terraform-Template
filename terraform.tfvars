@@ -1,0 +1,12 @@
+environment         = "dev"
+gcf_sa_email        = "dev-area-318003@appspot.gserviceaccount.com"
+pubsub_gcp_project  = "dev-area-318003"
+
+project_prefix      = "sample_app"
+gcp_project         = "dev-area-318003"
+gcp_region          = "us-east4"
+storage_class       = "REGIONAL"
+output_dataset      = "sample_app_dataset"
+output_table        = "sample_app_output_table"
+pubsub_topic        = "sample_app_pubsub_topic"
+#gcp_auth_file       = "C:\Users\Patrick\AppData\Roaming\gcloud\legacy_credentials\patrickmckowen1@gmail.com\adc.json"
